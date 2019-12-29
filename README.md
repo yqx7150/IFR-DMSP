@@ -15,5 +15,4 @@ The overall REDAEP algorithm is as follows:
 The flowchart illustration of IFR-EDMSP for image restoration
 ![repeat-IFR-EDMSP](https://github.com/yqx7150/IFR-EDMSP/blob/master/iter.png)
 
-
-
+The model can be downloaded in https://pan.baidu.com/s/1Oq3X4Vt3NhsgGoVtOQt5hg
