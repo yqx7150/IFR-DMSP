@@ -8,7 +8,7 @@ Image restoration (IR) has been extensively studied with lots of promising strat
 The overall REDAEP algorithm is as follows:
 <div align="center">
   
-<img src="https://github.com/yqx7150/IFR-EDMSP/blob/master/algorithm.png" width = "400" height = "450">  
+<img src="https://github.com/yqx7150/IFR-EDMSP/blob/master/algorithm.png" width = "400" height = "350">  
   
  </div>
 
