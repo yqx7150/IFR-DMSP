@@ -16,4 +16,3 @@ The flowchart illustration of IFR-EDMSP for image restoration
 ![repeat-IFR-EDMSP](https://github.com/yqx7150/IFR-EDMSP/blob/master/iter.png)
 
 The model can be downloaded in https://pan.baidu.com/s/1Oq3X4Vt3NhsgGoVtOQt5hg
-![image](https://github.com/yqx7150/IFR-EDMSP/blob/master/iter.png)
